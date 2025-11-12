@@ -47,8 +47,6 @@ namespace okr_lab2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Clear();
-            textBox2.Clear();
             MessageBox.Show("Успішно");
             if (double.TryParse(textBox2.Text, out double hryvnias))
             {
@@ -60,6 +58,8 @@ namespace okr_lab2
             {
                 MessageBox.Show("Некоректна сума у гривнях!", "Помилка");
             }
+            textBox1.Clear();
+            textBox2.Clear();
 
         }
 
