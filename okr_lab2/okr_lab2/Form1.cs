@@ -37,7 +37,7 @@ namespace okr_lab2
         private void button2_Click(object sender, EventArgs e)
         {
             label8.Text = "BTC";
-            
+
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -50,9 +50,9 @@ namespace okr_lab2
             MessageBox.Show("Успішно");
             if (double.TryParse(textBox2.Text, out double hryvnias))
             {
-                 balance += hryvnias;
-                label_bal.Text = balance.ToString("Баланс USDT:"+"0.00");
-                
+                balance += hryvnias;
+                label_bal.Text = balance.ToString("Баланс USDT:" + "0.00");
+
             }
             else
             {
@@ -107,15 +107,15 @@ namespace okr_lab2
                 }
             }
         }
-       
-	
 
-	
+
+
+
 
         private void label8_Click(object sender, EventArgs e)
         {
 
         }
-        //11.11 20:05
+        //11.11.2025
     }
 }
