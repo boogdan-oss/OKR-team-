@@ -47,6 +47,7 @@
             button3 = new Button();
             button4 = new Button();
             label_bal = new Label();
+            label13 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -235,11 +236,21 @@
             label_bal.Text = "Баланс USDT";
             label_bal.Click += label_bal_Click;
             // 
+            // label13
+            // 
+            label13.AutoSize = true;
+            label13.Location = new Point(12, 9);
+            label13.Name = "label13";
+            label13.Size = new Size(79, 20);
+            label13.TabIndex = 19;
+            label13.Text = "12.11.2025";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label13);
             Controls.Add(label_bal);
             Controls.Add(button4);
             Controls.Add(button3);
@@ -286,5 +297,6 @@
         private Button button3;
         private Button button4;
         private Label label_bal;
+        private Label label13;
     }
 }
