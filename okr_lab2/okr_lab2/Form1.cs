@@ -116,6 +116,11 @@ namespace okr_lab2
         {
 
         }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
         //11.11.2025
         //12.11.2025
     }
