@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:okr_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|f:\\3kurs\\okr\\lr2\\okr-team-\\okr_lab2\\okr_lab2\\services\\cryptoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|solutionrelative:okr_lab2\\services\\cryptoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:okr_lab2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|f:\\3kurs\\okr\\lr2\\okr-team-\\okr_lab2\\okr_lab2\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|solutionrelative:okr_lab2\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|f:\\3kurs\\okr\\lr2\\okr-team-\\okr_lab2\\okr_lab2\\themeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|solutionrelative:okr_lab2\\themeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|solutionrelative:okr_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|f:\\3kurs\\okr\\lr2\\okr-team-\\okr_lab2\\okr_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB5225-F6FA-47A2-85BE-58EF785ABC85}|okr_lab2\\okr_lab2.csproj|solutionrelative:okr_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +38,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoConverter.cs",
+              "DocumentMoniker": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Services\\CryptoConverter.cs",
+              "RelativeDocumentMoniker": "okr_lab2\\Services\\CryptoConverter.cs",
+              "ToolTip": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Services\\CryptoConverter.cs",
+              "RelativeToolTip": "okr_lab2\\Services\\CryptoConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:15:42.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BalanceService.cs",
+              "DocumentMoniker": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Services\\BalanceService.cs",
+              "RelativeDocumentMoniker": "okr_lab2\\Services\\BalanceService.cs",
+              "ToolTip": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Services\\BalanceService.cs",
+              "RelativeToolTip": "okr_lab2\\Services\\BalanceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:15:38.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Form1.cs",
               "RelativeDocumentMoniker": "okr_lab2\\Form1.cs",
               "ToolTip": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Form1.cs",
               "RelativeToolTip": "okr_lab2\\Form1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAMwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:23:00.892Z",
+              "WhenOpened": "2025-11-24T12:53:29.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ThemeService.cs",
+              "DocumentMoniker": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\ThemeService.cs",
+              "RelativeDocumentMoniker": "okr_lab2\\ThemeService.cs",
+              "ToolTip": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\ThemeService.cs",
+              "RelativeToolTip": "okr_lab2\\ThemeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:53:24.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Form1.cs",
               "RelativeDocumentMoniker": "okr_lab2\\Form1.cs",
               "ToolTip": "F:\\3kurs\\OKR\\LR2\\OKR-team-\\okr_lab2\\okr_lab2\\Form1.cs [Design]",
               "RelativeToolTip": "okr_lab2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:23:05.838Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-24T12:53:09.769Z"
             }
           ]
         },
