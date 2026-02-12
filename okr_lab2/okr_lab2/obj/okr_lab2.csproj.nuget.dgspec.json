@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hpk\\okr\\lr2\\okr_lab2\\okr_lab2\\okr_lab2.csproj": {}
+    "D:\\OKR\\lab2\\okr_lab2\\okr_lab2\\okr_lab2.csproj": {}
   },
   "projects": {
-    "D:\\hpk\\okr\\lr2\\okr_lab2\\okr_lab2\\okr_lab2.csproj": {
+    "D:\\OKR\\lab2\\okr_lab2\\okr_lab2\\okr_lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hpk\\okr\\lr2\\okr_lab2\\okr_lab2\\okr_lab2.csproj",
+        "projectUniqueName": "D:\\OKR\\lab2\\okr_lab2\\okr_lab2\\okr_lab2.csproj",
         "projectName": "okr_lab2",
-        "projectPath": "D:\\hpk\\okr\\lr2\\okr_lab2\\okr_lab2\\okr_lab2.csproj",
-        "packagesPath": "C:\\Users\\Арсеній\\.nuget\\packages\\",
-        "outputPath": "D:\\hpk\\okr\\lr2\\okr_lab2\\okr_lab2\\obj\\",
+        "projectPath": "D:\\OKR\\lab2\\okr_lab2\\okr_lab2\\okr_lab2.csproj",
+        "packagesPath": "C:\\Users\\HP Omen\\.nuget\\packages\\",
+        "outputPath": "D:\\OKR\\lab2\\okr_lab2\\okr_lab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Арсеній\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP Omen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

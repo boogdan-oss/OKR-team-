@@ -47,6 +47,7 @@
             button3 = new Button();
             button4 = new Button();
             label_bal = new Label();
+            label13 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -66,11 +67,13 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(125, 27);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
             textBox2.Location = new Point(434, 126);
             textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
             textBox2.Size = new Size(125, 27);
             textBox2.TabIndex = 2;
             textBox2.TextChanged += textBox2_TextChanged;
@@ -84,6 +87,7 @@
             button1.TabIndex = 3;
             button1.Text = "Обміняти";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label2
             // 
@@ -148,6 +152,7 @@
             label8.Size = new Size(33, 20);
             label8.TabIndex = 10;
             label8.Text = "BTC";
+            label8.Click += label8_Click;
             // 
             // label9
             // 
@@ -195,6 +200,7 @@
             button2.TabIndex = 15;
             button2.Text = ">";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -218,21 +224,33 @@
             button4.TabIndex = 17;
             button4.Text = ">";
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // label_bal
             // 
             label_bal.AutoSize = true;
-            label_bal.Location = new Point(690, 9);
+            label_bal.Location = new Point(620, 9);
             label_bal.Name = "label_bal";
             label_bal.Size = new Size(98, 20);
             label_bal.TabIndex = 18;
             label_bal.Text = "Баланс USDT";
+            label_bal.Click += label_bal_Click;
+            // 
+            // label13
+            // 
+            label13.AutoSize = true;
+            label13.Location = new Point(12, 9);
+            label13.Name = "label13";
+            label13.Size = new Size(79, 20);
+            label13.TabIndex = 19;
+            label13.Text = "12.11.2025";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label13);
             Controls.Add(label_bal);
             Controls.Add(button4);
             Controls.Add(button3);
@@ -279,5 +297,6 @@
         private Button button3;
         private Button button4;
         private Label label_bal;
+        private Label label13;
     }
 }
